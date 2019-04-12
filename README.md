@@ -42,11 +42,11 @@ inquirer
 ---
 
 ** please click the image to watch the video of the App running **
-[![1205359.png](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s](1205359.png)
+![GitHub Logo](screen1.png)
 
 Here are example of my code in action:
 
-![GitHub Logo](screen1.png)
+![GitHub Logo](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
 
 ------------------------------------------------------------
 **customer buying an Item** : 
