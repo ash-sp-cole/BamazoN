@@ -10,7 +10,7 @@ BamazoN
 
 All you need to know:
 
-BamazoN willrun as two primary users, the customer and the manager.
+BamazoN will run as two primary users, the customer and the manager.
 
 ---
 
@@ -45,28 +45,30 @@ Here are example of my code in action:
 ![GitHub Logo](screen1.png)
 
 ------------------------------------------------------------
-concert this : 
+**customer buying an Item** : 
 ![GitHub Logo](screen2.png)
 
 ![GitHub Logo](screen3.png)
 
 -------------------------------------------------------------
-spotify this :
+**Manager options** :
 ![GitHub Logo](screen4.png)
+
+-------------------------------------------------------------
 
 ![GitHub Logo](screen5.png)
 
 -------------------------------------------------------------
-movie this :
+
 ![GitHub Logo](screen6.png)
+
+-------------------------------------------------------------
 
 ![GitHub Logo](screen7.png)
 
 --------------------------------------------------------------
-do this:
 
 ![GitHub Logo](screen8.png)
-
 
 ---------------------------------------------------------------
 Project in Portfolio:
