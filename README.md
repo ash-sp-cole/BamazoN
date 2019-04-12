@@ -42,15 +42,22 @@ inquirer
 ---
 
 ** please click the image to watch the video of the App running **
-![GitHub Logo](screen1.png)
+
 
 Here are example of my code in action:
 
-![GitHub Logo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
+** please click the link to watch the video of the App running **
+--
+![GitHub Logo](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213)](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
 
 
 ---
-** please click the image to watch the video of the App running **
+
+---
+
+
+------------------------------------------------------------
+
 ![GitHub Logo](screen1.png)
 
 Here are example of my code in action:
@@ -84,5 +91,4 @@ Here are example of my code in action:
 ---------------------------------------------------------------
 Project in Portfolio:
 
-![GitHub Logo](screenLiri.png)
 **Thank you for reading.
