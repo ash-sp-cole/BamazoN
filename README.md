@@ -38,8 +38,11 @@ inquirer
 
 
 **Please open up in node or terminal to run the code.**
+
+---
+
 ** please click the image to watch the video of the App running **
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
+[![1205359.png](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s](1205359.png)
 
 Here are example of my code in action:
 
