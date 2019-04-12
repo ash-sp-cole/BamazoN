@@ -48,7 +48,7 @@ Here are example of my code in action:
 
 ** please click the link to watch the video of the App running **
 --
-![GitHub Logo](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213)](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
+(https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213)](https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s)
 
 
 ---
