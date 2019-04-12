@@ -13,10 +13,14 @@ All you need to know:
 BamazoN willrun as two primary users, the customer and the manager.
 
 ---
+
 As a customer, you are able to view all of the stock and item information, choosing which item to purchase, total cost and stock availble.
 
 ---
+
 As a manager, you are able to work with a menu system to either view inventory, view stock running low, add new stock to the inventory and add new items to the "shop floor".
+
+
 ---
 **All of these experiences have been created with a good user experience in mind, and constant validation checks to ensure user input and backend reliability. **
 
