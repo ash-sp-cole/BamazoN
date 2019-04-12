@@ -14,7 +14,7 @@ BamazoN willrun as two primary users, the customer and the manager.
 
 ---
 
-**As a customer**, you are able to view all of the stock and item information, choosing which item to purchase, total cost and stock availble.
+**As a customer**, you are able to view all of the stock and item information, choosing which item to purchase, total cost and stock available.
 
 ---
 
