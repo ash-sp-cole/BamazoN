@@ -58,9 +58,10 @@ https://www.youtube.com/watch?v=BsdVSMPU9rY&t=213s
 
 ------------------------------------------------------------
 
+Here are example of my code in action:
+
 ![GitHub Logo](screen1.png)
 
-Here are example of my code in action:
 
 ------------------------------------------------------------
 **customer buying an Item** : 
