@@ -9,7 +9,7 @@
   "author": "Ash Sp Cole",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "inquirer": "^6.2.2",
     "moment": "^2.24.0",
     "mysql": "^2.16.0"
